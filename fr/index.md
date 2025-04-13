@@ -1,6 +1,6 @@
 # <center>*Astrologie et thème astral*</center>
 
-<center>(../images/roue-zodiac.png)
+<center>(../Images/roue-zodiac.md)
 
 ## **DISCLAIMER**
 

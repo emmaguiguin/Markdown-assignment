@@ -1,6 +1,6 @@
 # <center>*Astr'histoire*</center>
 
-! [Roue du zodiaque](../Images/roue-zodiac.png)
+![Roue du zodiaque](../Images/roue-zodiac.png)
 
 >*A travers les âges, les êtres humains se sont appuyés sur la sagesse de l'astrologie dans le but de comprendre leur passé, dynamiser leur présent et créer un avenir épanouissant. L'astrologie est un art ancien. Les premiers thèmes astraux remonteraient à l'Egypte ancienne, vers 4500 avant J.-C. Mais c'est seulement au début du 20e siècle que la pratique a connu un regain d'intérêt en tant qu'outil psychologique favorisant une conscience de soi accrue.* *Sasha Fenton*
 

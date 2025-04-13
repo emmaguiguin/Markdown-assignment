@@ -8,7 +8,10 @@ En astrologie, l'année zodiacale ne suit pas le calendrier, mais les saisons. E
 * Les signes sont répartis en quatres catégories, les signes de feu, d'eau, d'air et de terre.
 * Chaque éléments comprend trois signes.
 
-Les signes
-Le Bélier (21 mars-19 avril)
+## **Les signes**
+
+### Le Bélier (21 mars-19 avril)
+
+![Bélier](../Images/Bélier.png)
 
 [Accueil](index.md) | [Astr'histoire](histoireastrologie.md) | [Les Signes Astros](signesastrologiques.md) | [Thème Astral](thèmeastral.md) | [Contacts](contacts.md) | [Site en anglais](../en/signesastrologiques.md)

@@ -1,4 +1,4 @@
-#*Astrologie et thème astral*#
+# *Astrologie et thème astral*
 
 ASTR'HISTOIRE LES SIGNES ASTROS THÈME ASTRAL CONTACTS
 

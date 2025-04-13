@@ -1,9 +1,6 @@
 # <center>*Astrologie et thème astral*</center>
 
-ASTR'HISTOIRE LES SIGNES ASTROS THÈME ASTRAL CONTACTS
-
-Version EN
-(Image ici)
+<center>(../images/roue-zodiac.png)
 
 ## **DISCLAIMER**
 
@@ -15,4 +12,4 @@ Bonjour et bienvenue sur Demeure du Zodiaque, l'endroit où je vous parlerais d'
 
 Je crée donc ce site aujourd'hui pour vous partager ma passion et vous permettre de mieux comprendre l'astrologie. Tout d'abord, vous pourrez commencer par lire la rubrique Astr'histoire, qui est un petit résumé de l'histoire de cette pratique à travers les âges. Vous trouverez ensuite une page qui vous permettra de connaître votre signe astrologique, aussi appelé signe solaire ainsi qu'un lien pour pouvoir calculer l'emplacement de chaque planète dans le ciel lors de votre naissance. Grâce à ce site, vous aurez en main votre thème astral (la carte du ciel lors de votre naissance) simplifié, et je vous aiderais à interpréter la position de chaque planète dans la rubrique thème astral
 
-[Astr'histoire](histoire astrologie.md)|[Les Signes Astros](signes astrologiques.md)|[Thème Astral](thème astral.md)|[Contacts](contacts.md)
+[Astr'histoire](histoireastrologie.md) | [Les Signes Astros](signesastrologiques.md) | [Thème Astral](thèmeastral.md) | [Contacts](contacts.md) | [Site en anglais](../en/index.md)
